@@ -1,5 +1,10 @@
 ### Hi there 👋
 ### This is William Liang!
 
+#### This is what I am working on:
+- UI Visual Regression Testing Tool（Dynamic datas are available）, input a .sketch file and a url link, output the difference ～
+- vite svg hot plugin: .svg files hot replacement.It allows you to add a new path in your project where includes svg files, and you not need to restart your project.
+- vite require plugin: a compatible plugin with webpack5, it allows you to use `require` to import static files such as picture etc.
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamyorkl)](https://github.com/anuraghazra/github-readme-stats)
